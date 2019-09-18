@@ -1,4 +1,4 @@
 console.log("Hello")
 
-
-"tt" == "ee"
+var tt = "tt"
+tt == "ee"
